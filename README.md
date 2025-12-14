@@ -1,1 +1,1 @@
-# PT1
+# Programming Technique 1
