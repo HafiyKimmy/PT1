@@ -90,4 +90,5 @@ void dispOutput (int activeCases){
 int calcAverage(int numStates, int totalActiveCases)
 {
     return totalActiveCases / numStates;
+
 }
