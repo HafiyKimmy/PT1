@@ -92,3 +92,4 @@ int calcAverage(int numStates, int totalActiveCases)
     return totalActiveCases / numStates;
 
 }
+
